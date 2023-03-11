@@ -11,4 +11,4 @@ A weather website developed using JavaScript and API can provide users with accu
 7. The app can be used to plan daily activities based on weather conditions, providing users with the information they need to make informed decisions.
 8. The app is constantly updated with the latest weather data, ensuring that users always have access to the most accurate and up-to-date information.
 
-# Overall, the Weather app made using HTML, Bootstrap, and JavaScript is a useful and user-friendly tool for anyone looking to stay informed about the weather conditions in their area or any other location in the world.
+##Overall, the Weather app made using HTML, Bootstrap, and JavaScript is a useful and user-friendly tool for anyone looking to stay informed about the weather conditions in their area or any other location in the world.
